@@ -10,6 +10,7 @@ Dive into the fusion of mathematics and cryptography. Beginning with number theo
 This repository contains a collection of classical and modern ciphers implemented using mathematical techniques. Our goal is to provide a comprehensive resource for learning, experimenting, and utilizing various cryptographic algorithms.
 
 ## Project Structure
+- Meeting Slides
 - Assignment 1 - Basic Shift Cipher and implementation
 - Assignment 2 - Breaking of Vignere Cipher using mathematical inferences
 
